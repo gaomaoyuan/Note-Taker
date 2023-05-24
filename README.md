@@ -32,6 +32,10 @@ standard contribution
 
 pass
 
+## The deployed URL
+
+https://note-taker11111.herokuapp.com/
+
 ## Contact Info
 
 For any questions, please contact me at gaomaoyu1111@gmail.com or visit my GitHub profile at [gaomaoyuan](https://github.com/gaomaoyuan).
