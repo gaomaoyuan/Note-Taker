@@ -30,7 +30,7 @@ standard contribution
 
 ## Tests
 
-undefined
+pass
 
 ## Contact Info
 
